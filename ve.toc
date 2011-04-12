@@ -1,0 +1,10 @@
+## Interface: 40100
+## Title: ve
+## Notes: hides vampiric embrace spam by turning off green healing text in shadowform
+## Author: dusknoir
+## Version: 1
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Class: Priest
+
+main.lua
